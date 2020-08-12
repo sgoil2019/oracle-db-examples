@@ -1,0 +1,9 @@
+Examples files for AQ classic queues, AQ sharded queues in DB19c (and DB12c) are provided here
+Examples files for TEQ (renamed AQ sharded queues) in DB21c are provided here
+Examples for okafka (Kafka Java client for TEQ) are provided here. The release is at http://github.com/oracle/okafka
+Subdirectories are organized by language for the developer
+Java/JMS
+PL/SQL
+C
+Python
+node.js
